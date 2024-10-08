@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store  # For macOS
+venv/      # Or your virtual environment directory name
+.env       # If you have environment variables files
