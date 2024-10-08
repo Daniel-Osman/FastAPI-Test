@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pydantic
+# any other libraries your app needs
